@@ -1,0 +1,2 @@
+Prefix plugins/ABSSeq/example/
+Plugin ABSSeq inputfile parameters.txt outputfile results.csv
